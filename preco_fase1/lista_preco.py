@@ -2,7 +2,7 @@ lista_precos = [100, 2000, 6000, 8000]
 reajuste_total = 0.05
 reajuste_faixa1 = 0.2
 reajuste_faixa2 = 0.05
-meta = 5000
+meta = 4000
 #======================================
 lista_reajustada = []
 lista_reajustada2 = []
